@@ -3,7 +3,7 @@
 
 simpleTree.js allows to draw a tree on a canvas element within a HTML page.
 
-![SimpleTree.js Image](/path/to/img.jpg "Example of SimpleTree.js in action")
+![SimpleTree.js Image](http://www.davidetotaro.com/wp-content/uploads/2014/08/white_tree.png "Example of SimpleTree.js in action")
 
 ## Aknowledgments
 The original idea and part of the code belong to [Kenneth Jørgensen](http://kennethjorgensen.com/blog/) and his amazing [Canvas Trees](http://kennethjorgensen.com/blog/2014/canvas-trees/).
