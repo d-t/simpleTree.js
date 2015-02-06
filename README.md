@@ -19,6 +19,7 @@ The original idea and part of the code belong to [Kenneth Jørgensen](http://ken
   * Number of branches each branch has to be split, e.g. `3`;
   * Canvas background color, e.g. `"#000000"`;
   * Tree stroke color, e.g. `"rgba(255, 255, 255, 0.5)"`.  
+  
 You can open the file `simple-tree.html` and see how to use simpleTree.js
 
 ## Example
